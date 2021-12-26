@@ -1,4 +1,4 @@
-# Brute Force Attack
+# FB Brute Force attack
 Author Shakil Hasan
 
 This is a python base script from which you can hack any person's facebook account.
