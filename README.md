@@ -1,7 +1,8 @@
 # Brute Force Attack
-#Shakil Hasan
+Author Shakil Hasan
 
 This is a python base script from which you can hack any person's facebook account.
+
 #You must have a password wordlist
 
 # Installation
